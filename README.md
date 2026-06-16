@@ -39,5 +39,5 @@ streamlit run app.py
 
 This project was created as a final project for Code in Place. It demonstrates the use of Python data structures, conditionals, user input handling, and web application development with Streamlit.
 
-##link deploy
+## link deploy
 https://country-guessing-name.streamlit.app/
