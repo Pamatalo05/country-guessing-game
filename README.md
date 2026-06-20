@@ -19,6 +19,12 @@ The application randomly selects a country and displays hints to the user. After
 * Python
 * Streamlit
 
+## Screenshot
+
+The image below shows the main interface of the application, where players receive clues and submit their country guesses.
+
+![Country Guessing Game Screenshot](Country-Guessing-game.png)
+
 ## How to Run
 
 1. Install Streamlit:
